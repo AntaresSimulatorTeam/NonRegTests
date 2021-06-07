@@ -1,0 +1,28 @@
+A-1-3-3	area	id	daily
+	VARIABLES	BEGIN	END
+	32	1	21
+
+A-1-3-3	daily			OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	H. ROR	H. ROR	WIND	WIND	SOLAR	SOLAR	NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG	H. STOR	H. STOR	H. PUMP	H. PUMP	UNSP. ENRG	UNSP. ENRG	SPIL. ENRG	SPIL. ENRG
+				Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+	index	day	month	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	1	01	JAN	2	1	3	1	1	1	3	1	1	1	1	1	1	1	1	1	2	1	2	1	1	1	1	1	2	1	1	1	3	2	2	1
+	2	02	JAN	1	3	2	3	1	1	1	3	1	1	1	3	1	3	1	3	1	3	1	3	1	3	1	3	2	1	1	1	3	1	2	1
+	3	03	JAN	1	3	2	3	1	1	3	1	1	1	1	3	1	3	1	3	1	3	1	3	1	1	1	3	2	1	1	1	1	3	2	1
+	4	04	JAN	3	1	3	1	1	1	3	1	1	1	3	1	3	1	3	1	3	1	3	1	1	3	3	1	2	1	1	1	3	1	2	3
+	5	05	JAN	3	2	1	2	1	1	3	1	1	1	1	2	1	2	3	2	3	2	1	2	1	2	1	2	2	1	1	1	1	2	2	1
+	6	06	JAN	2	3	3	1	1	1	1	3	1	1	1	1	2	1	1	3	1	1	2	1	1	1	1	1	2	1	1	1	1	3	2	3
+	7	07	JAN	1	3	3	1	1	1	1	3	1	1	1	1	1	1	1	3	1	1	1	1	1	1	1	1	2	1	1	1	1	1	2	3
+	8	08	JAN	1	3	2	3	1	1	1	3	1	1	1	3	1	3	1	3	1	3	1	3	1	3	1	3	2	1	1	1	1	3	2	1
+	9	09	JAN	1	3	3	1	1	1	3	1	1	1	1	1	1	1	1	3	1	1	1	1	1	1	1	1	2	1	1	1	3	1	2	1
+	10	10	JAN	3	1	3	1	1	1	3	1	1	1	1	2	3	1	3	1	3	1	3	1	3	1	2	1	2	1	1	1	3	1	2	3
+	11	11	JAN	3	1	3	1	1	1	1	3	1	1	3	1	3	1	3	1	3	1	3	1	3	1	3	1	2	1	1	1	3	1	2	3
+	12	12	JAN	3	2	3	1	1	1	1	3	1	1	3	1	3	1	3	1	3	1	1	2	1	3	3	1	1	1	1	1	3	1	1	3
+	13	13	JAN	1	3	2	3	1	1	3	1	1	1	1	3	1	3	1	3	1	3	1	3	1	3	2	1	2	1	1	1	1	3	3	1
+	14	14	JAN	3	1	3	1	1	1	1	3	1	1	1	2	3	1	3	1	2	1	3	1	3	1	3	1	2	1	1	1	3	1	2	3
+	15	15	JAN	3	2	3	1	1	1	3	1	1	1	3	1	3	1	3	1	3	1	3	1	3	1	1	2	2	1	1	1	3	1	2	1
+	16	16	JAN	3	1	3	1	1	1	1	3	1	1	3	1	3	1	3	1	3	1	3	1	3	1	3	1	2	1	1	1	3	1	2	3
+	17	17	JAN	1	3	2	3	1	1	3	1	1	1	1	3	1	3	1	3	1	3	1	3	1	3	1	3	2	1	1	1	2	3	2	1
+	18	18	JAN	1	1	3	1	1	1	1	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	3	1	1	3
+	19	19	JAN	1	3	3	1	1	1	1	3	1	1	1	1	1	1	2	1	1	2	2	1	1	1	1	1	2	1	1	1	3	2	2	3
+	20	20	JAN	1	3	3	1	1	1	3	1	1	1	1	1	1	1	1	3	3	1	1	1	1	1	1	1	2	1	1	1	3	1	2	1
+	21	21	JAN	1	3	2	3	1	1	1	3	1	1	1	3	1	3	1	3	1	3	1	3	1	3	1	1	2	1	1	1	2	3	2	3

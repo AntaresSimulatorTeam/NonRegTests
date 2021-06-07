@@ -1,0 +1,10 @@
+system	set of areas	va	weekly
+	VARIABLES	BEGIN	END
+	7	1	3
+
+system	weekly	NUCLEAR	LIGNITE	COAL	GAS	OIL	MIX. FUEL	MISC. DTG
+		MWh	MWh	MWh	MWh	MWh	MWh	MWh
+	week							
+	1	0	0	1481902	284808	0	0	0
+	2	0	0	1229541	327734	9639	0	0
+	3	0	0	1244624	297785	8738	0	0

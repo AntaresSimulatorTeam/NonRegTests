@@ -1,0 +1,8 @@
+system	set of areas	id	annual
+	VARIABLES	BEGIN	END
+	10	1	1
+
+system	annual	LOAD	LOAD	NUCLEAR	NUCLEAR	GAS	GAS	H. STOR	H. STOR	H. INFL	H. INFL
+		MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+		min	max	min	max	min	max	min	max	min	max
+	Annual	1	1	1	1	1	1	1	1	1	1

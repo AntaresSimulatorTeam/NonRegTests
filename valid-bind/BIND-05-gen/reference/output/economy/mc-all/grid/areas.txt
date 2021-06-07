@@ -1,0 +1,10 @@
+id	name
+area 1	Area 1
+area 2	Area 2
+area 3	Area 3
+area 4	Area 4
+area 5	Area 5
+area 6	Area 6
+area 7	Area 7
+area 8	Area 8
+area 9	Area 9

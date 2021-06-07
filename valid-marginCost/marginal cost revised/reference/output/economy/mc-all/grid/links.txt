@@ -1,0 +1,11 @@
+upstream	downstream
+area1	area2
+area1	fict_a1_a2
+area1	invest_peak_1
+area1	invest_semibase_1
+area2	fict_a1_a2
+area2	flex_2
+area2	invest_peak_2
+area2	invest_semibase_2
+flex_2	store_in
+flex_2	store_out

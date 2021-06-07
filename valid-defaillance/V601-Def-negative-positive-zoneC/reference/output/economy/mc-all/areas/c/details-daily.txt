@@ -1,0 +1,14 @@
+C	area	de	daily
+	VARIABLES	BEGIN	END
+	6	1	7
+
+C	daily			dispatchable	mustrun	dispatchable	mustrun	dispatchable	mustrun
+				MWh	MWh	NP Cost - Euro	NP Cost - Euro	NODU	NODU
+	index	day	month	EXP	EXP	EXP	EXP	EXP	EXP
+	1	01	JAN	1000	512	0	0	1	1
+	2	02	JAN	0	0	0	0	0	0
+	3	03	JAN	0	0	0	0	0	0
+	4	04	JAN	0	0	0	0	0	0
+	5	05	JAN	0	0	0	0	0	0
+	6	06	JAN	0	0	0	0	0	0
+	7	07	JAN	0	0	0	0	0	0

@@ -1,0 +1,30 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	8	6	0
+
+		LOLD IS	LOLD CN	LOLP IS	LOLP CN	ENS IS	ENS CN	MARG IS	MARG CN
+		hours	hours	%	%	MWh	MWh	MW	MW
+		EXP	EXP	values	values	EXP	EXP	EXP	EXP
+	east	0	0	0	0	0	0	0	0
+	east-2	0	0	0	0	0	0	0	0
+	hydro	0	0	0	0	0	0	0	0
+	hydro-2	0	0	0	0	0	0	0	0
+	west	0	0	0	0	0	0	0	0
+	west-2	0	0	0	0	0	0	0	0
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	0	6	0
+
+	
+	
+	
+	east
+	east-2
+	hydro
+	hydro-2
+	west
+	west-2
+
+

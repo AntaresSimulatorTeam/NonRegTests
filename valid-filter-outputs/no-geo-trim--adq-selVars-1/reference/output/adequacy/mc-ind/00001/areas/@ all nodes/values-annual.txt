@@ -1,0 +1,8 @@
+system	set of areas	va	annual
+	VARIABLES	BEGIN	END
+	9	1	1
+
+system	annual	OV. COST	CO2 EMIS.	ROW BAL.	LOAD	NUCLEAR	GAS	H. STOR	H. INFL	LOLP
+		Euro	Tons	MWh	MWh	MWh	MWh	MWh	MWh	%
+										
+	Annual	1308365207	12514470	0	14308854	0	4143180	974791	321060	100.00

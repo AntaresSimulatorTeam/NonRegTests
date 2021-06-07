@@ -1,0 +1,11 @@
+system	set of areas	id	weekly
+	VARIABLES	BEGIN	END
+	18	4	7
+
+system	weekly	OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	H. ROR	H. ROR	H. STOR	H. STOR	H. PUMP	H. PUMP	H. INFL	H. INFL	H. OVFL	H. OVFL	H. VAL	H. VAL	H. COST	H. COST
+		Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	%	%	Euro/MWh	Euro/MWh	Euro	Euro
+	week	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	4	1	1	1	1	1	1	1	1	1	1	1	1	N/A	N/A	N/A	N/A	1	1
+	5	1	1	1	1	1	1	1	1	1	1	1	1	N/A	N/A	N/A	N/A	1	1
+	6	1	1	1	1	1	1	1	1	1	1	1	1	N/A	N/A	N/A	N/A	1	1
+	7	1	1	1	1	1	1	1	1	1	1	1	1	N/A	N/A	N/A	N/A	1	1

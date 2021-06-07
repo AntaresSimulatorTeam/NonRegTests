@@ -1,0 +1,7 @@
+upstream	downstream
+&& start	zz end
+&& start	zzz3
+zz end	zzz1
+zzz1	zzz2
+zzz1	zzz3
+zzz2	zzz3

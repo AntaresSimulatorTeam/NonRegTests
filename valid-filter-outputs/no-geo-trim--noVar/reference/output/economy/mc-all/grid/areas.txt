@@ -1,0 +1,7 @@
+id	name
+east	east
+east-2	east-2
+hydro	HYDRO
+hydro-2	HYDRO-2
+west	west
+west-2	west-2

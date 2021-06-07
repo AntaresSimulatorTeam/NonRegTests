@@ -1,0 +1,8 @@
+system	set of areas	id	monthly
+	VARIABLES	BEGIN	END
+	14	1	1
+
+system	monthly		NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG
+			MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+	index	month	min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	1	JAN	1	1	1	1	1	1	1	1	1	1	1	1	1	1

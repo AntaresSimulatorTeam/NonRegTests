@@ -1,0 +1,62 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	35	10	0
+
+		OV. COST	OP. COST	MRG. PRICE	CO2 EMIS.	BALANCE	ROW BAL.	PSP	MISC. NDG	LOAD	H. ROR	WIND	SOLAR	NUCLEAR	LIGNITE	COAL	GAS	OIL	MIX. FUEL	MISC. DTG	H. STOR	H. PUMP	H. LEV	H. INFL	H. OVFL	H. VAL	H. COST	UNSP. ENRG	SPIL. ENRG	LOLD	LOLP	AVL DTG	DTG MRG	MAX MRG	NP COST	NODU
+		Euro	Euro	Euro	Tons	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	%	MWh	%	Euro/MWh	Euro	MWh	MWh	Hours	%	MWh	MWh	MWh	Euro	 
+		EXP	EXP	EXP	EXP	EXP	values	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	values	EXP	EXP	EXP	EXP	EXP
+	area1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	area2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	fict_a1_a2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	flex_2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	invest_peak_1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	invest_peak_2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	invest_semibase_1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	invest_semibase_2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	store_in	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+	store_out	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	N/A	0	N/A	N/A	0	0	0	0	0	0	0	0	0	0
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	0	0	0
+
+	
+	
+	
+
+
+
+
+
+
+	Links (FLOW LIN.)
+		From...
+	...To	area1	area2	fict_a1_a2	flex_2	invest_peak_1	invest_peak_2	invest_semibase_1	invest_semibase_2	store_in	store_out
+	area1	X	0	0	--	0	--	0	--	--	--
+	area2	0	X	0	0	--	0	--	0	--	--
+	fict_a1_a2	0	0	X	--	--	--	--	--	--	--
+	flex_2	--	0	--	X	--	--	--	--	0	0
+	invest_peak_1	0	--	--	--	X	--	--	--	--	--
+	invest_peak_2	--	0	--	--	--	X	--	--	--	--
+	invest_semibase_1	0	--	--	--	--	--	X	--	--	--
+	invest_semibase_2	--	0	--	--	--	--	--	X	--	--
+	store_in	--	--	--	0	--	--	--	--	X	--
+	store_out	--	--	--	0	--	--	--	--	--	X
+
+
+
+
+	Links (FLOW QUAD.)
+		From...
+	...To	area1	area2	fict_a1_a2	flex_2	invest_peak_1	invest_peak_2	invest_semibase_1	invest_semibase_2	store_in	store_out
+	area1	X	0	0	--	0	--	0	--	--	--
+	area2	0	X	0	0	--	0	--	0	--	--
+	fict_a1_a2	0	0	X	--	--	--	--	--	--	--
+	flex_2	--	0	--	X	--	--	--	--	0	0
+	invest_peak_1	0	--	--	--	X	--	--	--	--	--
+	invest_peak_2	--	0	--	--	--	X	--	--	--	--
+	invest_semibase_1	0	--	--	--	--	--	X	--	--	--
+	invest_semibase_2	--	0	--	--	--	--	--	X	--	--
+	store_in	--	--	--	0	--	--	--	--	X	--
+	store_out	--	--	--	0	--	--	--	--	--	X

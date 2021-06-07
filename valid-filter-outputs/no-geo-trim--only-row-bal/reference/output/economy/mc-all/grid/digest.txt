@@ -1,0 +1,28 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	1	6	0
+
+		ROW BAL.
+		MWh
+		values
+	east	0
+	east-2	0
+	hydro	0
+	hydro-2	0
+	west	0
+	west-2	0
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	1	4	0
+
+		ROW BAL.
+		MWh
+		values
+	@ none	0
+	@ set 1	0
+	@ set 2	0
+	@ set 3	0
+
+

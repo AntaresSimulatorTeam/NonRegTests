@@ -1,0 +1,28 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	0	6	0
+
+	
+	
+	
+	east
+	east-2
+	hydro
+	hydro-2
+	west
+	west-2
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	0	4	0
+
+	
+	
+	
+	@ none
+	@ set 1
+	@ set 2
+	@ set 3
+
+

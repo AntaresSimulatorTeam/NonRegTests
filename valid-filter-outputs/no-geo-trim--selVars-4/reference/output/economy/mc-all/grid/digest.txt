@@ -1,0 +1,54 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	16	6	0
+
+		OP. COST	BALANCE	ROW BAL.	MISC. NDG	WIND	LIGNITE	GAS	OIL	MISC. DTG	H. LEV	H. COST	UNSP. ENRG	LOLD	DTG MRG	MAX MRG	NODU
+		Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	%	Euro	MWh	Hours	MWh	MWh	 
+		EXP	EXP	values	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP
+	east	0	0	0	0	0	0	0	0	0	N/A	0	0	0	0	0	0
+	east-2	0	0	0	0	0	0	0	0	0	N/A	0	0	0	0	0	0
+	hydro	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	hydro-2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	west	0	0	0	0	0	0	0	0	0	N/A	0	0	0	0	0	0
+	west-2	0	0	0	0	0	0	0	0	0	N/A	0	0	0	0	0	0
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	16	4	0
+
+		OP. COST	BALANCE	ROW BAL.	MISC. NDG	WIND	LIGNITE	GAS	OIL	MISC. DTG	H. LEV	H. COST	UNSP. ENRG	LOLD	DTG MRG	MAX MRG	NODU
+		Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	%	Euro	MWh	Hours	MWh	MWh	 
+		EXP	EXP	values	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP
+	@ none	307482284	0	0	0	4904917	0	1216449	18377	0	N/A	-149660	605	504.00	5925305	6048214	13121
+	@ set 1	170220111	0	0	0	2082715	0	910327	18377	0	N/A	-86951	605	504.00	2189110	2190330	6937
+	@ set 2	137262173	0	0	0	2822202	0	306122	0	0	N/A	-62709	0	504.00	3736196	3857884	6184
+	@ set 3	147589830	80134	0	0	2567206	0	483697	3933	0	N/A	-62709	0	504.00	2907655	2922500	6132
+
+
+
+
+
+
+	Links (FLOW LIN.)
+		From...
+	...To	east	east-2	hydro	hydro-2	west	west-2
+	east	X	--	0	--	0	--
+	east-2	--	X	--	0	--	0
+	hydro	0	--	X	--	0	--
+	hydro-2	--	0	--	X	--	0
+	west	0	--	0	--	X	--
+	west-2	--	0	--	0	--	X
+
+
+
+
+	Links (FLOW QUAD.)
+		From...
+	...To	east	east-2	hydro	hydro-2	west	west-2
+	east	X	--	0	--	0	--
+	east-2	--	X	--	0	--	0
+	hydro	0	--	X	--	0	--
+	hydro-2	--	0	--	X	--	0
+	west	0	--	0	--	X	--
+	west-2	--	0	--	0	--	X

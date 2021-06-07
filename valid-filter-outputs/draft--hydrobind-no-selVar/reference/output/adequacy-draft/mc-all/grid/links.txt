@@ -1,0 +1,6 @@
+upstream	downstream
+at	ch
+at	pompage
+at	turbinage
+ch	pompage
+ch	turbinage

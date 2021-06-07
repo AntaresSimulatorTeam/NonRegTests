@@ -1,0 +1,13 @@
+id	name
+a	A
+area	Area
+b	B
+c	C
+ccgt	CCGT
+d	D
+e	E
+f	F
+g	G
+h	H
+renw	RENW
+ther	THER

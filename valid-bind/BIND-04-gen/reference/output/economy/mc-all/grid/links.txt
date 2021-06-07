@@ -1,0 +1,11 @@
+upstream	downstream
+area 1	area 2
+area 1	area 9
+area 2	area 3
+area 2	area 9
+area 3	area 4
+area 4	area 5
+area 5	area 6
+area 6	area 7
+area 7	area 8
+area 8	area 9

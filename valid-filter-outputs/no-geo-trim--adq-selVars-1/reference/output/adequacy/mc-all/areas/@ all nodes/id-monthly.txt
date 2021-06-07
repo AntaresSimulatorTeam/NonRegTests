@@ -1,0 +1,8 @@
+system	set of areas	id	monthly
+	VARIABLES	BEGIN	END
+	10	1	1
+
+system	monthly		LOAD	LOAD	NUCLEAR	NUCLEAR	GAS	GAS	H. STOR	H. STOR	H. INFL	H. INFL
+			MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+	index	month	min	max	min	max	min	max	min	max	min	max
+	1	JAN	1	1	1	1	1	1	1	1	1	1

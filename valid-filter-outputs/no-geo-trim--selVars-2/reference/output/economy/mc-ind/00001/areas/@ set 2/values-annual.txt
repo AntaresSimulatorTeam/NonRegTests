@@ -1,0 +1,8 @@
+system	set of areas	va	annual
+	VARIABLES	BEGIN	END
+	4	1	1
+
+system	annual	NUCLEAR	COAL	MIX. FUEL	MISC. DTG
+		MWh	MWh	MWh	MWh
+					
+	Annual	0	4014182	0	0

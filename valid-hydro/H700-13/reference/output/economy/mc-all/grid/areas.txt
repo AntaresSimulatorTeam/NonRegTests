@@ -1,0 +1,13 @@
+id	name
+zone 01	Zone 01
+zone 02	Zone 02
+zone 03	Zone 03
+zone 04	Zone 04
+zone 05	Zone 05
+zone 06	Zone 06
+zone 07	Zone 07
+zone 08	Zone 08
+zone 09	Zone 09
+zone 10	Zone 10
+zone 11	Zone 11
+zone 12	Zone 12

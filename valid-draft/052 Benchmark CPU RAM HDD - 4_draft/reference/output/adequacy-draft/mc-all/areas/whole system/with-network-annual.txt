@@ -1,0 +1,8 @@
+system	group	cn	annual
+	VARIABLES	BEGIN	END
+	3	1	1
+
+system	annual	LOLD CN Sys.	LOLP CN Sys.	ENS CN
+		Hours	%	MWh
+		values	values	values
+	Annual	1.00	50.00	18477

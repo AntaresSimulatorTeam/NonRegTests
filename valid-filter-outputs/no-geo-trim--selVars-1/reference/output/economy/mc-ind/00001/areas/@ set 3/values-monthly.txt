@@ -1,0 +1,8 @@
+system	set of areas	va	monthly
+	VARIABLES	BEGIN	END
+	7	1	1
+
+system	monthly		NUCLEAR	LIGNITE	COAL	GAS	OIL	MIX. FUEL	MISC. DTG
+			MWh	MWh	MWh	MWh	MWh	MWh	MWh
+	index	month							
+	1	JAN	0	0	4022394	483697	3933	0	0

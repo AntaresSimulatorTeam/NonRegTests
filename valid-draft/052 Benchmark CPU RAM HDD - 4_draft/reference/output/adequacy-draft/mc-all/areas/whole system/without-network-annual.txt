@@ -1,0 +1,8 @@
+system	group	is	annual
+	VARIABLES	BEGIN	END
+	3	1	1
+
+system	annual	LOLD IS Sys.	LOLP IS Sys.	ENS IS
+		Hours	%	MWh
+		values	values	values
+	Annual	331.00	100.00	3066205

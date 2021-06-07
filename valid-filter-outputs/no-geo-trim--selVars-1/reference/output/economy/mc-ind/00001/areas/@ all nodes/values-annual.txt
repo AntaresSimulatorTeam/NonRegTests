@@ -1,0 +1,8 @@
+system	set of areas	va	annual
+	VARIABLES	BEGIN	END
+	7	1	1
+
+system	annual	NUCLEAR	LIGNITE	COAL	GAS	OIL	MIX. FUEL	MISC. DTG
+		MWh	MWh	MWh	MWh	MWh	MWh	MWh
+								
+	Annual	0	0	7970249	1216449	18377	0	0

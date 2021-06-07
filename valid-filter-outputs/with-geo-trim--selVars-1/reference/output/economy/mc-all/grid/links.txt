@@ -1,0 +1,7 @@
+upstream	downstream
+east	hydro
+east	west
+east-2	hydro-2
+east-2	west-2
+hydro	west
+hydro-2	west-2

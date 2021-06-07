@@ -1,0 +1,8 @@
+system	set of areas	va	monthly
+	VARIABLES	BEGIN	END
+	1	1	1
+
+system	monthly		ROW BAL.
+			MWh
+	index	month	values
+	1	JAN	0

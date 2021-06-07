@@ -1,0 +1,7 @@
+id	name
+e	E
+h	H
+he	HE
+m	M
+m_hb	M_hb
+s	S

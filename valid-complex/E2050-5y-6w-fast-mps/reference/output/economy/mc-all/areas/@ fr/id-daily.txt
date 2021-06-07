@@ -1,0 +1,21 @@
+system	set of areas	id	daily
+	VARIABLES	BEGIN	END
+	32	25	38
+
+system	daily			OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	H. ROR	H. ROR	WIND	WIND	SOLAR	SOLAR	NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG	H. STOR	H. STOR	H. PUMP	H. PUMP	UNSP. ENRG	UNSP. ENRG	SPIL. ENRG	SPIL. ENRG
+				Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+	index	day	month	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	25	25	JAN	2	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1
+	26	26	JAN	2	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	1	2	1
+	27	27	JAN	2	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	2	1	1	1	1	1	1	1
+	28	28	JAN	2	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	2	1	1	1	1	1	2	1
+	29	29	JAN	2	1	1	2	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	2	1	1	1	1	1	1	1
+	30	30	JAN	2	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1
+	31	31	JAN	2	1	1	2	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1
+	32	01	FEB	1	2	1	2	2	1	1	1	1	1	2	1	1	1	1	1	1	2	1	1	2	1	1	1	1	2	1	1	1	1	1	2
+	33	02	FEB	1	2	1	2	2	1	1	1	1	1	2	1	1	1	1	1	1	2	1	1	2	1	1	1	2	1	1	1	1	1	2	1
+	34	03	FEB	2	1	1	2	2	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	2	1	1	1	2	1	1	1	1	1	1	1
+	35	04	FEB	1	2	1	2	2	1	1	1	1	1	2	1	1	1	1	1	1	2	1	1	2	1	1	1	2	1	1	1	1	1	2	1
+	36	05	FEB	2	1	1	2	2	1	1	1	1	1	2	1	1	1	1	1	1	2	1	1	2	1	1	1	1	2	1	1	1	1	1	1
+	37	06	FEB	2	1	1	2	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	2	1	1	1	1	1	2	1
+	38	07	FEB	2	1	1	2	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	2	1	1	1	2	1	1	1	1	1	1	1

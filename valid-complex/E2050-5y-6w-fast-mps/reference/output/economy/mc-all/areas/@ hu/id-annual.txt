@@ -1,0 +1,8 @@
+system	set of areas	id	annual
+	VARIABLES	BEGIN	END
+	32	1	1
+
+system	annual	OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	H. ROR	H. ROR	WIND	WIND	SOLAR	SOLAR	NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG	H. STOR	H. STOR	H. PUMP	H. PUMP	UNSP. ENRG	UNSP. ENRG	SPIL. ENRG	SPIL. ENRG
+		Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+		min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	Annual	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	1	1	2	1	1	1	2	1	1	1	1	1	1	1	1	1	1

@@ -1,0 +1,8 @@
+system	set of areas	va	annual
+	VARIABLES	BEGIN	END
+	37	1	1
+
+system	annual	OV. COST	OP. COST	OP. COST	OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	MRG. PRICE	MRG. PRICE	H. ROR	H. ROR	H. ROR	H. ROR	H. STOR	H. STOR	H. STOR	H. STOR	H. PUMP	H. PUMP	H. PUMP	H. PUMP	H. INFL	H. INFL	H. INFL	H. INFL	H. OVFL	H. OVFL	H. OVFL	H. OVFL	H. VAL	H. VAL	H. VAL	H. VAL	H. COST	H. COST	H. COST	H. COST
+		Euro	Euro	Euro	Euro	Euro	Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	%	%	%	%	Euro/MWh	Euro/MWh	Euro/MWh	Euro/MWh	Euro	Euro	Euro	Euro
+		EXP	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max
+	Annual	-508207658	185918342	474874	184493719	186076633	39.37	0	39.36	39.37	0	0	0	0	729000	0	729000	729000	703367	9497	674874	706533	26000	0	26000	26000	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	-694126000	9450000	-697276000	-665776000

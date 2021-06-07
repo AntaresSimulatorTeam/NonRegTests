@@ -1,0 +1,5 @@
+upstream	downstream
+a	b
+a	c
+b	d
+c	d

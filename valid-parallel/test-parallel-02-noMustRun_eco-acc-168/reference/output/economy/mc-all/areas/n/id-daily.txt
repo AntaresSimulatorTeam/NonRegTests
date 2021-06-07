@@ -1,0 +1,21 @@
+N	area	id	daily
+	VARIABLES	BEGIN	END
+	32	1	14
+
+N	daily			OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	H. ROR	H. ROR	WIND	WIND	SOLAR	SOLAR	NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG	H. STOR	H. STOR	H. PUMP	H. PUMP	UNSP. ENRG	UNSP. ENRG	SPIL. ENRG	SPIL. ENRG
+				Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+	index	day	month	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	1	01	JAN	2	1	2	1	2	1	2	1	1	2	1	1	1	1	1	2	2	1	2	1	1	1	1	1	2	1	1	1	1	1	1	1
+	2	02	JAN	2	1	2	1	2	1	2	1	1	2	1	1	1	1	2	1	1	2	2	1	1	1	1	1	2	1	1	1	1	1	1	1
+	3	03	JAN	2	1	1	2	2	1	2	1	1	2	1	1	1	1	2	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1
+	4	04	JAN	2	1	1	2	2	1	2	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1
+	5	05	JAN	2	1	1	2	2	1	2	1	1	2	1	1	1	1	2	1	1	2	1	2	1	1	1	1	1	2	1	1	1	1	1	1
+	6	06	JAN	1	2	1	2	2	1	2	1	2	1	1	1	1	1	2	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1
+	7	07	JAN	1	2	1	2	2	1	2	1	2	1	1	1	1	1	2	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1
+	8	08	JAN	2	1	2	1	2	1	2	1	2	1	1	1	1	1	2	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1
+	9	09	JAN	2	1	2	1	2	1	2	1	1	2	1	1	1	1	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1
+	10	10	JAN	2	1	2	1	2	1	2	1	2	1	1	1	1	1	1	2	2	1	2	1	1	1	1	1	2	1	1	1	1	1	1	1
+	11	11	JAN	2	1	2	1	2	1	2	1	2	1	1	1	1	1	1	2	2	1	2	1	1	1	1	1	2	1	1	1	1	1	1	1
+	12	12	JAN	2	1	2	1	2	1	1	2	2	1	1	1	1	1	1	2	2	1	2	1	1	1	1	1	2	1	1	1	1	1	1	1
+	13	13	JAN	2	1	2	1	2	1	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1
+	14	14	JAN	2	1	2	1	2	1	1	2	1	2	1	1	1	1	1	2	2	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1

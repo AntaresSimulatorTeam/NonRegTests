@@ -1,0 +1,21 @@
+30_NL	area	id	daily
+	VARIABLES	BEGIN	END
+	34	25	38
+
+30_NL	daily			OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	BALANCE	BALANCE	NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG	UNSP. ENRG	UNSP. ENRG	SPIL. ENRG	SPIL. ENRG	LOLD	LOLD	AVL DTG	AVL DTG	DTG MRG	DTG MRG	NP COST	NP COST	NODU	NODU
+				Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	Hours	Hours	MWh	MWh	MWh	MWh	Euro	Euro	 	 
+	index	day	month	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	25	25	JAN	2	1	1	2	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	2	1
+	26	26	JAN	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	2
+	27	27	JAN	2	1	1	2	2	1	1	1	1	1	1	1	2	1	1	1	2	1	1	1	1	1	1	1	1	1	2	1	1	2	1	1	2	1
+	28	28	JAN	2	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	2
+	29	29	JAN	2	1	1	2	2	1	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	2	1
+	30	30	JAN	2	1	2	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	2	1
+	31	31	JAN	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	2
+	32	01	FEB	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	2	2	1	1	1	1	2
+	33	02	FEB	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	2	2	1	1	1	1	2
+	34	03	FEB	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	2	2	1	1	1	1	2
+	35	04	FEB	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	2
+	36	05	FEB	1	2	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	2
+	37	06	FEB	2	1	2	1	2	1	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1	1	1	2	1	1	2	1	1	2	1
+	38	07	FEB	2	1	1	2	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	2	1	1	2	1

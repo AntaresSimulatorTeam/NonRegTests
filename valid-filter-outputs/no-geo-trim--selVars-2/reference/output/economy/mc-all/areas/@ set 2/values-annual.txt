@@ -1,0 +1,8 @@
+system	set of areas	va	annual
+	VARIABLES	BEGIN	END
+	16	1	1
+
+system	annual	NUCLEAR	NUCLEAR	NUCLEAR	NUCLEAR	COAL	COAL	COAL	COAL	MIX. FUEL	MIX. FUEL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG	MISC. DTG	MISC. DTG
+		MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+		EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max
+	Annual	0	0	0	0	4014182	0	4014182	4014182	0	0	0	0	0	0	0	0

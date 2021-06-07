@@ -1,0 +1,19 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	10	1	0
+
+		OV. COST	OP. COST	MRG. PRICE	H. ROR	H. STOR	H. PUMP	H. INFL	H. OVFL	H. VAL	H. COST
+		Euro	Euro	Euro	MWh	MWh	MWh	MWh	%	Euro/MWh	Euro
+		EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP	EXP
+	area 01	0	0	0	0	0	0	0	N/A	N/A	0
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	0	0	0
+
+	
+	
+	
+
+

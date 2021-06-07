@@ -1,0 +1,8 @@
+system	set of areas	id	annual
+	VARIABLES	BEGIN	END
+	14	1	1
+
+system	annual	NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG
+		MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh
+		min	max	min	max	min	max	min	max	min	max	min	max	min	max
+	Annual	1	1	1	1	1	1	1	1	1	1	1	1	1	1

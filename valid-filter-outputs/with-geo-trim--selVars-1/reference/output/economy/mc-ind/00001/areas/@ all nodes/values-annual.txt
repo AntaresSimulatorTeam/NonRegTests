@@ -1,0 +1,8 @@
+system	set of areas	va	annual
+	VARIABLES	BEGIN	END
+	13	1	1
+
+system	annual	OP. COST	BALANCE	LOAD	H. ROR	SOLAR	LIGNITE	GAS	MIX. FUEL	H. PUMP	H. LEV	H. VAL	NP COST	NODU
+		Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	%	Euro/MWh	Euro	 
+														
+	Annual	307482284	0	14308854	79040	0	0	1216449	0	236808	N/A	N/A	0	13121

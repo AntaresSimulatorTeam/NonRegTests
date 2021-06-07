@@ -1,0 +1,26 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	8	4	0
+
+		LOLD IS	LOLD CN	LOLP IS	LOLP CN	ENS IS	ENS CN	MARG IS	MARG CN
+		hours	hours	%	%	MWh	MWh	MW	MW
+		EXP	EXP	values	values	EXP	EXP	EXP	EXP
+	at	0	0	0	0	0	0	0	0
+	ch	0	0	0	0	0	0	0	0
+	pompage	0	0	0	0	0	0	0	0
+	turbinage	0	0	0	0	0	0	0	0
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	0	4	0
+
+	
+	
+	
+	at
+	ch
+	pompage
+	turbinage
+
+

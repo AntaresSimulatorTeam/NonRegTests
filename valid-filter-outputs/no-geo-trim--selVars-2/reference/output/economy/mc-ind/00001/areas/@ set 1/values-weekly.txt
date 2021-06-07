@@ -1,0 +1,10 @@
+system	set of areas	va	weekly
+	VARIABLES	BEGIN	END
+	4	1	3
+
+system	weekly	NUCLEAR	COAL	MIX. FUEL	MISC. DTG
+		MWh	MWh	MWh	MWh
+	week				
+	1	0	1481902	0	0
+	2	0	1229541	0	0
+	3	0	1244624	0	0

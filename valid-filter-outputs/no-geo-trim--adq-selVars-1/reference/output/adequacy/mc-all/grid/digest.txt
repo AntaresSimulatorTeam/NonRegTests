@@ -1,0 +1,41 @@
+	digest
+	VARIABLES	AREAS	LINKS
+	9	6	0
+
+		OV. COST	CO2 EMIS.	ROW BAL.	LOAD	NUCLEAR	GAS	H. STOR	H. INFL	LOLP
+		Euro	Tons	MWh	MWh	MWh	MWh	MWh	MWh	%
+		EXP	EXP	values	EXP	EXP	EXP	EXP	EXP	values
+	east	0	0	0	0	0	0	0	0	0
+	east-2	0	0	0	0	0	0	0	0	0
+	hydro	0	0	0	0	0	0	0	0	0
+	hydro-2	0	0	0	0	0	0	0	0	0
+	west	0	0	0	0	0	0	0	0	0
+	west-2	0	0	0	0	0	0	0	0	0
+
+
+	digest
+	VARIABLES	AREAS	LINKS
+	9	4	0
+
+		OV. COST	CO2 EMIS.	ROW BAL.	LOAD	NUCLEAR	GAS	H. STOR	H. INFL	LOLP
+		Euro	Tons	MWh	MWh	MWh	MWh	MWh	MWh	%
+		EXP	EXP	values	EXP	EXP	EXP	EXP	EXP	values
+	@ none	1308365207	12514470	0	14308854	0	4143180	974791	321060	100.00
+	@ set 1	626962915	5783520	0	7154427	0	2053680	578666	178907	100.00
+	@ set 2	681402292	6730950	0	7154427	0	2089500	396125	142153	100.00
+	@ set 3	644162092	6101400	0	7154427	0	2053680	427130	172498	100.00
+
+
+
+
+
+
+	Links (FLOW QUAD.)
+		From...
+	...To	east	east-2	hydro	hydro-2	west	west-2
+	east	X	--	0	--	0	--
+	east-2	--	X	--	0	--	0
+	hydro	0	--	X	--	0	--
+	hydro-2	--	0	--	X	--	0
+	west	0	--	0	--	X	--
+	west-2	--	0	--	0	--	X

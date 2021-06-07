@@ -1,0 +1,8 @@
+system	set of areas	va	monthly
+	VARIABLES	BEGIN	END
+	9	1	1
+
+system	monthly		OV. COST	CO2 EMIS.	ROW BAL.	LOAD	NUCLEAR	GAS	H. STOR	H. INFL	LOLP
+			Euro	Tons	MWh	MWh	MWh	MWh	MWh	MWh	%
+	index	month									
+	1	JAN	644162092	6101400	0	7154427	0	2053680	427130	172498	100.00
