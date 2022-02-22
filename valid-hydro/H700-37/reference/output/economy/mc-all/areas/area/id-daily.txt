@@ -5,7 +5,7 @@ Area	area	id	daily
 Area	daily			OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	H. ROR	H. ROR	H. STOR	H. STOR	H. PUMP	H. PUMP	H. INFL	H. INFL	H. OVFL	H. OVFL	H. VAL	H. VAL	H. COST	H. COST
 				Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	%	%	Euro/MWh	Euro/MWh	Euro	Euro
 	index	day	month	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
-	1	01	JAN	1	2	10	3	1	1	2	1	1	2	1	1	1	1	1	1	2	1
+	1	01	JAN	1	2	10	3	1	1	1	1	1	2	1	1	1	1	1	1	2	1
 	2	02	JAN	1	1	10	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1
 	3	03	JAN	1	1	10	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1
 	4	04	JAN	1	1	10	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1

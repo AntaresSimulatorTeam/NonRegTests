@@ -7,4 +7,4 @@ system	weekly	OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	BALANCE	BALANCE	NUCLEAR	NU
 	week	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
 	4	1	2	2	1	1	2	1	1	1	1	1	1	1	2	1	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	2	1
 	5	1	2	1	2	2	1	1	1	1	1	1	1	1	2	1	1	2	1	1	1	1	1	1	1	1	1	1	2	1	2	1	1	1	2
-	6	2	1	1	2	2	1	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1	1	1	1	2	1	2	1	1	1	2
+	6	2	1	1	2	1	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1	1	1	1	2	1	2	1	1	1	2

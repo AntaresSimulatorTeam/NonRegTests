@@ -5,7 +5,7 @@
 03_ES	daily			OP. COST	OP. COST	MRG. PRICE	MRG. PRICE	BALANCE	BALANCE	NUCLEAR	NUCLEAR	LIGNITE	LIGNITE	COAL	COAL	GAS	GAS	OIL	OIL	MIX. FUEL	MIX. FUEL	MISC. DTG	MISC. DTG	UNSP. ENRG	UNSP. ENRG	SPIL. ENRG	SPIL. ENRG	LOLD	LOLD	AVL DTG	AVL DTG	DTG MRG	DTG MRG	NP COST	NP COST	NODU	NODU
 				Euro	Euro	Euro	Euro	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	Hours	Hours	MWh	MWh	MWh	MWh	Euro	Euro	 	 
 	index	day	month	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max	min	max
-	25	25	JAN	1	1	2	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+	25	25	JAN	1	1	2	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
 	26	26	JAN	2	1	2	1	2	1	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	2	1	1	2	1
 	27	27	JAN	2	1	2	1	1	2	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1
 	28	28	JAN	2	1	2	1	1	2	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1	1	1	1	1	2	1	2	1	1	1	2

@@ -6,7 +6,7 @@ G	daily			FLOW LIN.	FLOW LIN.	FLOW LIN.	FLOW LIN.	UCAP LIN.	UCAP LIN.	UCAP LIN.	
 				MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	MWh	Euro	Euro	Euro	Euro	Euro	Euro	Euro	Euro	Euro/MW	Euro/MW	Euro/MW	Euro/MW	%	%	Euro	Euro	Euro	Euro
 	index	day	month	EXP	std	min	max	EXP	std	min	max	values	values	EXP	std	min	max	EXP	std	min	max	EXP	std	min	max	values	values	EXP	std	min	max
 	1	01	JAN	790	0	790	790	790	0	790	790	0	789	4	0	4	4	4	0	4	4	0	0	0	0	0	0	4	0	4	4
-	2	02	JAN	899	0	899	899	899	0	899	899	0	898	5	0	5	5	5	0	5	5	0	0	0	0	0	0	4	0	4	4
+	2	02	JAN	898	0	898	898	898	0	898	898	0	898	5	0	5	5	5	0	5	5	0	0	0	0	0	0	4	0	4	4
 	3	03	JAN	589	0	589	589	589	0	589	589	0	589	3	0	3	3	3	0	3	3	0	0	0	0	0	0	3	0	3	3
 	4	04	JAN	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 	5	05	JAN	-1715	0	-1715	-1715	1715	0	1715	1715	0	-1716	5	0	5	5	5	0	5	5	0	0	0	0	0	0	9	0	9	9
